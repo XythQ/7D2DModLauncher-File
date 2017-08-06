@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="True Survival" Logo="" Description="Challenging Hardcore Survival Mod">
+    <Server Name="True Survival A16" Logo="">
+         <Description>True Survival A16
+Client-side Only pack. In order to fully enjoy this mod, you will need to connect to the Official True Survival A16 Test Server using password food
+		 
+		 </Description>
+		 <Address>98.192.134.85</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
+		<Port>26910</Port>	
+		 <DownloadMode>Clone</DownloadMode>
+		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38584-True-Survival-JZMOD</ReleaseNotes>
+         <Downloads>
+            <Download>https://github.com/XythQ/TS16.2Client</Download>
+         </Downloads>
+      </Server>
+   </ServerGroup>
+</Servers>
