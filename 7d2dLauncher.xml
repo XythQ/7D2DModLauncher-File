@@ -9,7 +9,7 @@
 		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38584-True-Survival-JZMOD</ReleaseNotes>
          <Downloads>
 		<Download>https://github.com/XythQ/TS16.3Client</Download>
-		 <Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+		 <Download>https://raw.githubusercontent.com/SphereII/7D2DPatches/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
 	  </Downloads>
       </Server>
    </ServerGroup>
