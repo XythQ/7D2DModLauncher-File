@@ -6,7 +6,7 @@
 		 <Address>98.192.134.85</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
 		<Port>26910</Port>	
 		 <DownloadMode>Clone</DownloadMode>
-		<ReleaseNotes>https://7daystodie.com/forums/showthread.php?38584-True-Survival-JZMOD</ReleaseNotes>
+		<ReleaseNotes>Password is: Testing123</ReleaseNotes>
          <Downloads>
 		<Download>https://github.com/XythQ/TS16.3Client</Download>
 		 <Download>https://raw.githubusercontent.com/SphereII/7D2DPatches/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
