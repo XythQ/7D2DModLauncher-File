@@ -2,7 +2,9 @@
 <Servers>
    <ServerGroup Name="A16.3 True Survival" Logo="" Description="Challenging Hardcore Survival Mod">
     <Server Name="True Survival A16.3" Logo="">
-         <Description>True Survival A16.3 Client Install  </Description>
+         <Description>True Survival A16.3 Client Install  
+Client-side Only pack. In order to fully enjoy this mod, you will need to connect to the Official Test Server using password: StarvationTest
+	    </Description>
 		 <Address>98.192.134.85</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
 		<Port>26910</Port>	
 		 <DownloadMode>Clone</DownloadMode>
