@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="A16.3 True Survival" Logo="" Description="Challenging Hardcore Survival Mod">
-    <Server Name="True Survival A16.3" Logo="">
-         <Description>Xythmod A16.3 Client Install
-		 Client-side Only pack. To connect to the Official Test Server use the password: StarvationTest
+   <ServerGroup Name="Xyths A17 Test Server" Logo="" Description="Testing Mods">
+    <Server Name="Xyths A17 Test Server" Logo="">
+         <Description>Xyths A17 Test Server Client Install
+		 Client-side Only pack. 
 	    </Description>
 		 <Address>98.192.134.85</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
-		<Port>26910</Port>	
+		<Port>26920</Port>	
 		 <DownloadMode>Clone</DownloadMode>
-		<ReleaseNotes>Password is: Testing123</ReleaseNotes>
+		<ReleaseNotes>None</ReleaseNotes>
          <Downloads>
-		<Download>https://github.com/XythQ/TS16.3Client</Download>
-		 <Download>https://raw.githubusercontent.com/SphereII/7D2DPatches/master/Alpha16.3/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+		<Download>https://github.com/XythQ/A17TestClient</Download>		
 	  </Downloads>
       </Server>
    </ServerGroup>
