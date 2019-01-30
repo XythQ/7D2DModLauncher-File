@@ -5,7 +5,7 @@
          <Description>Xyths A17 Test Server Client Install
 		 Client-side Only pack. 
 	    </Description>
-		 <Address>98.192.134.85</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
+		 <Address>98.192.128.220</Address>						<!-- IP address of the Server, this value gets updated in the Registry -->
 		<Port>26920</Port>	
 		 <DownloadMode>Clone</DownloadMode>
 		<ReleaseNotes>None</ReleaseNotes>
